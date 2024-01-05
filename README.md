@@ -18,10 +18,8 @@
 
 ```javascript
 const fer = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Python, Go],
-  tools: [React, Node, Storybook, Styled-Components, Jest, Docker], 
-<!--  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript" -->
+  code: [Javascript, Typescript, HTML, CSS, Python, Go, Dart],
+  tools: [React Native, React, Node, Django, Jest, Docker], 
 }
 ```
 
